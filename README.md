@@ -78,7 +78,7 @@
 
 ### 3. Boxplot
 
-**Показывает как числовой рейтинг, который указали пользователи в отзыве, соотносится с тональностью текста.
+Показывает как числовой рейтинг, который указали пользователи в отзыве, соотносится с тональностью текста.
 
 ![Boxplot](png/boxplot.png)
 
@@ -101,7 +101,7 @@
 
 ---
 
-## 🎛 Функциональность дашборда
+## Функциональность дашборда
 
 ### Фильтры
 
@@ -127,8 +127,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/username/pyaterochka-sentiment-dashboard.git
-cd pyaterochka-sentiment-dashboard
+git clone https://github.com/IRinaN0V1/Pyaterochka-Review-Analysis-Dashboard.git
+cd Pyaterochka-Review-Analysis-Dashboard
 
 # Создать виртуальное окружение
 python -m venv venv
